@@ -1,6 +1,6 @@
 # python of any version of python2 or python3 is required
 # pycoingecko of version 2.2 or newer is required
 if you do not have pycoingecko installed, use 
-pip install coingecko 
+    pip install coingecko 
 to download it or 
 visit their official github page here https://github.com/man-c/pycoingecko
